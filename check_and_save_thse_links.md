@@ -1,5 +1,5 @@
 
-# Data science resources:
+### Data science resources:
 
 * [The Algorithm Design Manual](http://sist.sysu.edu.cn/~isslxm/DSA/textbook/Skiena.-.TheAlgorithmDesignManual.pdf)
 
@@ -14,7 +14,7 @@
 * [Tutorial to Implement k-Nearest Neighbours in Python](https://www.linkedin.com/pulse/article/20141010091132-52688293-tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch?trk=object-title)
 
 
-# Data science - concepts on the field and the people:
+### Data science - concepts on the field and the people:
 
 * [The Metro map to data science resources and styles](http://nirvacana.com/thoughts/becoming-a-data-scientist/?utm_source=S2DS+Interest+group&utm_campaign=b268877ebb-S2DS_September&utm_medium=email&utm_term=0_d89a57102e-b268877ebb-98137469)
 
@@ -24,12 +24,12 @@
 
 
 
-# ArXiv:
+### ArXiv:
 
 * [Artículo con Julio-Bello y David Martínez-Delgado](http://arxiv.org/pdf/1409.7390v1.pdf)
 
 
-# Women and discrimination:
+### Women and discrimination:
 
 * [Getting girls into Physics - Are we saying the wrong things?](http://www.epsnews.eu/2014/09/editorial-gender-issue/)
 
